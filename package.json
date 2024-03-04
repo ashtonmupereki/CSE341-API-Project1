@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ashtonmupereki/CSE341-API-Project1/issues"
   },
-  "homepage": "https://github.com/ashtonmupereki/CSE341-API-Project1#readme"
+  "homepage": "https://github.com/ashtonmupereki/CSE341-API-Project1#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
 }
